@@ -7,8 +7,8 @@ export default function CTASection() {
         <h2 className="text-3xl font-bold text-gray-700 dark:text-white mb-6">
           Ready to Revolutionize Your Social Media Management?
         </h2>
-        <Button className="font-semibold hover:bg-none">
-          Try Teeweety for Free
+        <Button className="font-semibold hover:bg-none py-4 rounded">
+          Get started now
         </Button>
       </div>
     </section>
