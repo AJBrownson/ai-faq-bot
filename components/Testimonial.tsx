@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Testimonials() {
   const testimonials = [
     {
@@ -28,13 +30,15 @@ export default function Testimonials() {
               key={index}
               className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md"
             >
-              <img
+              <Image
                 src={testimonial.image}
                 alt={testimonial.name}
+                width={64}
+                height={64}
                 className="w-16 h-16 rounded-full mx-auto mb-4 bg-gray-600"
               />
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                "{testimonial.quote}"
+              &quot;{testimonial.quote}&quot;
               </p>
               <h4 className="text-lg font-semibold text-gray-800 dark:text-white">
                 {testimonial.name}
