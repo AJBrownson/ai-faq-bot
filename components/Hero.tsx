@@ -4,7 +4,7 @@ import Hero from "@/public/socials.jpg";
 
 export default function HeroSection() {
   return (
-    <section className="py-5 lg:py-10 bg-gray-100 dark:bg-gray-900 font-geistMono">
+    <section className="py-10 lg:py-20 bg-gray-100 dark:bg-gray-900 font-geistMono">
       <div className="container mx-auto flex flex-col md:flex-row items-center px-4 lg:px-14 space-y-8 md:space-y-0 md:space-x-12 justify-between">
         <div className="w-full flex flex-col items-start space-y-4 mt-5 lg:mt-0">
           <h1 className="text-4xl lg:text-6xl font-bold text-gray-800 dark:text-white font-geistSans">

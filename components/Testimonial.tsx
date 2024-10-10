@@ -5,14 +5,14 @@ export default function Testimonials() {
       role: "Marketing Specialist",
       quote:
         "Teeweety has transformed the way I manage social media, saving me countless hours every week!",
-      image: "/path-to-jane-image.jpg",
+      image: "https://tools-api.webcrumbs.org/image-placeholder/200/250/person/13",
     },
     {
       name: "Wade Wilson",
       role: "Content Creator",
       quote:
         "The AI recommendations are spot-on and helped me grow my audience faster than ever.",
-      image: "/path-to-john-image.jpg",
+      image: "https://tools-api.webcrumbs.org/image-placeholder/200/250/person/14",
     },
   ];
 
@@ -30,7 +30,7 @@ export default function Testimonials() {
             >
               <img
                 src={testimonial.image}
-                // alt={testimonial.name}
+                alt={testimonial.name}
                 className="w-16 h-16 rounded-full mx-auto mb-4 bg-gray-600"
               />
               <p className="text-gray-600 dark:text-gray-300 mb-4">

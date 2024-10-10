@@ -42,7 +42,7 @@ export default function Home() {
   // this is the code to use the useCopilotReadable hook to display the info state in the Copilot popup
   // it takes in the info state as a value and displays it in the Copilot popup
   useCopilotReadable({
-    description: "The data in the info",
+    description: "Read the data in the info state",
     value: info,
   });
 
