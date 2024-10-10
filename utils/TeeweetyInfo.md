@@ -31,7 +31,7 @@ Teeweety is an AI-powered social media management platform designed to help busi
    Teeweety’s AI analyzes user activity patterns and engagement trends to determine the best times to post for each social media platform, ensuring maximum reach and engagement.
 
 2. **Content Recommendations**  
-   The platform suggests content ideas based on current trends, user interests, and engagement history, helping users generate engaging posts quickly.
+   Teeweety suggests content ideas based on current trends, user interests, and engagement history, helping users generate engaging posts quickly.
 
 3. **Automated Posting**  
    Users can set up posts in advance, and Teeweety will automatically publish them at the best times based on AI analysis.
@@ -55,39 +55,33 @@ Teeweety is an AI-powered social media management platform designed to help busi
 
 ### **Pricing Plans**
 
-1. **Free Plan**
+1. **Basic Plan**
 
-   - **Price**: $0/month
+   - **Price**: $9/month
    - **Features**:
-     - Connect up to 2 social media accounts
-     - 10 scheduled posts per month
+     - Connect up to 5 social media accounts
+     - 50 scheduled posts per month
      - Basic analytics
      - Access to AI-driven post scheduling
 
 2. **Pro Plan**
 
-   - **Price**: $19/month
+   - **Price**: $29/month
    - **Features**:
-     - Connect up to 5 social media accounts
+     - Connect up to 15 social media accounts
      - 100 scheduled posts per month
      - Advanced analytics
-     - Team collaboration for up to 2 members
+     - Team collaboration for up to 10 members
      - Hashtag optimization
 
-3. **Business Plan**
+3. **Enterprise Plan**
 
-   - **Price**: $49/month
+   - **Price**: Contact us
    - **Features**:
      - Unlimited social media accounts
      - Unlimited scheduled posts
-     - Full analytics suite
-     - Team collaboration for up to 10 members
      - Customizable post templates
      - Dedicated account manager
-
-4. **Enterprise Plan**
-   - **Price**: Custom pricing
-   - **Features**:
      - Tailored for large teams and agencies
      - Custom social media integrations
      - Unlimited team members
@@ -149,12 +143,48 @@ Teeweety is an AI-powered social media management platform designed to help busi
 
    - Teeweety offers an API for developers who want to integrate Teeweety’s functionality into their applications. API access is available with Business and Enterprise plans.
 
-3. **Does Teeweety offer training?**
+---
+
+### **Frequently Asked Questions**
+
+1. **Does Teeweety offer training?**
 
    - Yes, we provide webinars, tutorials, and one-on-one training sessions to help users make the most out of Teeweety.
 
-4. **Can I migrate from another tool to Teeweety?**
+2. **Can I migrate from another tool to Teeweety?**
    - Teeweety offers migration support from other social media management tools. Contact our support team for assistance.
 
-5. **Do you have a privacy policy?**
+3. **Do you have a privacy policy?**
    - Yes, we have a privacy policy that explains how we handle user data and protect user privacy.
+
+4. **Can I schedule posts for multiple social media accounts?**
+
+   - Yes, Teeweety allows you to schedule posts for multiple accounts across various social media platforms.
+
+5. **Does Teeweety support all major social media platforms?**
+   - Teeweety supports popular platforms like Facebook, Twitter, Instagram, LinkedIn, Pinterest, and more.
+
+6. **Can I preview my scheduled posts before they go live?**
+   - Yes, you can preview and edit your scheduled posts to ensure they look perfect before they are published.
+
+7. **Is it possible to auto-post at the best times for engagement?**
+   - Absolutely! Teeweety offers an auto-scheduling feature that posts at the optimal times for maximum engagement.
+
+8. **Can I create and save post templates for future use?**
+   - Yes, you can create, customize, and save templates to streamline your social media posting process.
+
+9. **Does Teeweety offer analytics for social media performance?**
+   - Teeweety provides detailed analytics and insights, so you can track your posts' performance and audience engagement.
+ 
+10. **Is there a mobile app available for Teeweety?**
+    - Yes, Teeweety has a mobile app available for iOS and Android, allowing you to manage your social media on the go.
+
+11.  **Can I collaborate with my team on social media campaigns?**
+    - Yes, Teeweety allows you to add team members, assign roles, and collaborate on social media strategies.
+
+12.  **What file formats are supported for media uploads?**
+    - Teeweety supports various media formats, including JPEG, PNG, MP4, and GIF, for your social media posts.
+
+13.  **Do you offer customer support for troubleshooting?**
+    - Yes, Teeweety offers 24/7 customer support via chat and email to assist with any issues or questions.
+    
