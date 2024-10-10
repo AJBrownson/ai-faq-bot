@@ -8,7 +8,8 @@ const Features = () => {
     },
     {
       title: "Bulk Upload and Calendar View",
-      description: "Upload and schedule multiple posts at once using Teeweety's bulk upload feature and manage your content through an interactive calendar interface.",
+      description:
+        "Upload and schedule multiple posts at once using Teeweety's bulk upload feature and manage your content through an interactive calendar interface.",
       icon: "📅",
     },
     {
@@ -20,9 +21,9 @@ const Features = () => {
   ];
 
   return (
-    <section className="bg-white dark:bg-gray-800 py-20">
+    <section className="bg-white dark:bg-gray-800 py-20 font-geistMono">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center text-gray-800 dark:text-white mb-10">
+        <h2 className="text-3xl font-bold text-center text-gray-800 dark:text-white mb-10 font-geistSans">
           Features That Make a Difference
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

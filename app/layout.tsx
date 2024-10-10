@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AI Powered FAQ Bot",
+  title: "Mini | AI Powered FAQ Bot",
   description: "A chatbot that answers your questions using AI",
 };
 
