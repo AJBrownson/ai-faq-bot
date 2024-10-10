@@ -1,20 +1,20 @@
 const Features = () => {
   const features = [
     {
-      title: "AI-Powered Insights",
+      title: "AI-Driven Scheduling",
       description:
-        "Get automatic recommendations based on your social media performance.",
+        "AI Analysis of user activity patterns and engagement trends to determine the best times to post for each social media platform, ensuring maximum reach and engagement.",
       icon: "🧠",
     },
     {
-      title: "Easy Scheduling",
-      description: "Plan and automate your posts across platforms with ease.",
+      title: "Bulk Upload and Calendar View",
+      description: "Upload and schedule multiple posts at once using Teeweety's bulk upload feature and manage your content through an interactive calendar interface.",
       icon: "📅",
     },
     {
-      title: "Analytics Dashboard",
+      title: "Post Performance Analytics",
       description:
-        "Track engagement and see what works best for your audience.",
+        "Detailed analytics on post performance, including metrics like reach, engagement, click-through rates, and conversions.",
       icon: "📊",
     },
   ];

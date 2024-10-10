@@ -1,8 +1,7 @@
-"use client"
-import { useState, useEffect} from "react";
+"use client";
+import { useState, useEffect } from "react";
 import { CopilotPopup } from "@copilotkit/react-ui";
 import { useCopilotReadable } from "@copilotkit/react-core";
-import { Button } from "@/components/ui/button";
 // import frequentlyAskedQuestions from "@/utils/faq.json";
 import teeweetyInfo from "@/utils/TeeweetyInfo";
 import HeroSection from "@/components/Hero";
@@ -20,10 +19,8 @@ export interface FAQData {
   frequentlyAskedQuestions: FAQ[];
 }
 
-
 export default function Home() {
-
-    // this stores the info about Teeweety imported from the utils/TeeweetyInfo.ts file
+  // this stores the info about Teeweety imported from the utils/TeeweetyInfo.ts file
   // and it is stored in the state using the setInfo function
   // const [faq, setFaq] = useState<FAQData | null>(null);
 
@@ -41,37 +38,34 @@ export default function Home() {
     setInfo(teeweetyInfo);
   }, []);
 
-
   // this is the code to use the useCopilotReadable hook to display the info state in the Copilot popup
   // it takes in the info state as a value and displays it in the Copilot popup
   useCopilotReadable({
     description: "The state of the info",
-    value: info
-  })
+    value: info,
+  });
 
   return (
     <>
-    <main>
-      {/* hero section */}
-     <HeroSection />
-     <Features />
-     <Testimonials />
-     <Pricing />
-     <CTASection />
-    </main>
-
-
-
-
-
+      <main>
+        {/* hero section */}
+        <HeroSection />
+        <Features />
+        <Testimonials />
+        <Pricing />
+        <CTASection />
+      </main>
 
       <CopilotPopup
-        instructions={"You are assisting the user as best as you can. Ansewr in the best way possible given the data you have."}
+        instructions={
+          "You are assisting the user as best as you can. Ansewr in the best way possible given the data you have."
+        }
         labels={{
           title: "Mini 👩",
-          initial: "👋 Hello. I'm Mini, your Teeweety Assistant. How can I help you make the most of your social media scheduling experience today?"
+          initial:
+            "👋 Hello. I'm Mini, your Teeweety Assistant. How can I help you make the most of your social media scheduling experience today?",
         }}
       />
     </>
-  )
+  );
 }

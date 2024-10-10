@@ -1,14 +1,18 @@
-const Testimonials = () => {
+
+
+
+
+export default function Testimonials() {
   const testimonials = [
     {
-      name: "Jane Doe",
+      name: "Logan Howlett",
       role: "Marketing Specialist",
       quote:
         "Teeweety has transformed the way I manage social media, saving me countless hours every week!",
       image: "/path-to-jane-image.jpg",
     },
     {
-      name: "John Smith",
+      name: "Wade Wilson",
       role: "Content Creator",
       quote:
         "The AI recommendations are spot-on and helped me grow my audience faster than ever.",
@@ -30,8 +34,8 @@ const Testimonials = () => {
             >
               <img
                 src={testimonial.image}
-                alt={testimonial.name}
-                className="w-16 h-16 rounded-full mx-auto mb-4"
+                // alt={testimonial.name}
+                className="w-16 h-16 rounded-full mx-auto mb-4 bg-gray-600"
               />
               <p className="text-gray-600 dark:text-gray-300 mb-4">
                 "{testimonial.quote}"
@@ -50,4 +54,3 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;

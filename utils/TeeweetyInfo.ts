@@ -32,7 +32,7 @@ Teeweety is an AI-powered social media management platform designed to help busi
    Teeweety’s AI analyzes user activity patterns and engagement trends to determine the best times to post for each social media platform, ensuring maximum reach and engagement.
 
 2. **Content Recommendations**  
-   The platform suggests content ideas based on current trends, user interests, and engagement history, helping users generate engaging posts quickly.
+   Teeweety suggests content ideas based on current trends, user interests, and engagement history, helping users generate engaging posts quickly.
 
 3. **Automated Posting**  
    Users can set up posts in advance, and Teeweety will automatically publish them at the best times based on AI analysis.
@@ -56,39 +56,33 @@ Teeweety is an AI-powered social media management platform designed to help busi
 
 ### **Pricing Plans**
 
-1. **Free Plan**
+1. **Basic Plan**
 
-   - **Price**: $0/month
+   - **Price**: $9/month
    - **Features**:
-     - Connect up to 2 social media accounts
-     - 10 scheduled posts per month
+     - Connect up to 5 social media accounts
+     - 50 scheduled posts per month
      - Basic analytics
      - Access to AI-driven post scheduling
 
 2. **Pro Plan**
 
-   - **Price**: $19/month
+   - **Price**: $29/month
    - **Features**:
-     - Connect up to 5 social media accounts
+     - Connect up to 15 social media accounts
      - 100 scheduled posts per month
      - Advanced analytics
-     - Team collaboration for up to 2 members
+     - Team collaboration for up to 10 members
      - Hashtag optimization
 
-3. **Business Plan**
+3. **Enterprise Plan**
 
-   - **Price**: $49/month
+   - **Price**: Contact us
    - **Features**:
      - Unlimited social media accounts
      - Unlimited scheduled posts
-     - Full analytics suite
-     - Team collaboration for up to 10 members
      - Customizable post templates
      - Dedicated account manager
-
-4. **Enterprise Plan**
-   - **Price**: Custom pricing
-   - **Features**:
      - Tailored for large teams and agencies
      - Custom social media integrations
      - Unlimited team members
