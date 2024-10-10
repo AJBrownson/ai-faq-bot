@@ -18,7 +18,7 @@ Mini is an AI chatbot that reads business information stored in a markdown or js
 
 ## Demo
 
-You can view a live demo of Mini-FAQ-BOT [here](https://snippy-rohith-singhs-projects.vercel.app)
+You can view a live demo of Mini-FAQ-BOT [here](https://mini-faq-bot.vercel.app/)
 
 A youtube video demo of the bot is available [here](https://youtu.be/In6n5ZqeVuE)
 
