@@ -58,7 +58,7 @@ export default function Home() {
 
       <CopilotPopup
         instructions={
-          "You are assisting the user as best as you can. Answer in the best way possible with the data you have been given."
+          "You are assisting the user as best as you can. Answer in the best way possible with the data you have been given. And do not prefix your answer with 'According to the Teeweety information' "
         }
         labels={{
           title: "Mini 👩",

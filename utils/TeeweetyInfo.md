@@ -187,4 +187,3 @@ Teeweety is an AI-powered social media management platform designed to help busi
 
 13.  **Do you offer customer support for troubleshooting?**
     - Yes, Teeweety offers 24/7 customer support via chat and email to assist with any issues or questions.
-    

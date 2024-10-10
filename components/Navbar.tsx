@@ -11,13 +11,14 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { XIcon } from "lucide-react";
 
+
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const { setTheme } = useTheme();
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <header className="bg-white dark:bg-gray-800 md:px-20 z-50 fixed w-full font-geistMono">
+    <header className="bg-white dark:bg-gray-800 md:px-20 z-50 w-full font-geistMono">
       <div className="container mx-auto flex justify-between items-center p-4">
         <div className="text-xl font-bold">
           <a href="#">Teeweety</a>
