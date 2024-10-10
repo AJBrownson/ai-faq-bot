@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { CopilotKit } from "@copilotkit/react-core";
 import "@copilotkit/react-ui/styles.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -38,9 +39,11 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
+          {/* <CopilotKit publicApiKey="ck_pub_621dd3fa285902be5135601b78bf28b5"> */}
           <CopilotKit runtimeUrl="/api/copilotkit">
             <Navbar />
             {children}
+            <Footer />
           </CopilotKit>
         </ThemeProvider>
       </body>
